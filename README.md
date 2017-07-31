@@ -1,2 +1,7 @@
 # hello-world
-My first repository of all time!
+
+What up HOMIES?!
+
+This is my first repository of all time.
+
+Peace Out!
